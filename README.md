@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+C++
+#include <stdio.h>
+int main(void){
+    
+    printf("Hello world");
+
+    return 0;
+}
+
+ 
 <!--
 **hms1218/hms1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
