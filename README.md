@@ -26,7 +26,7 @@
 ## 📁 주요 프로젝트
 
 ### 🐛 [에러 공유 게시판] - 진행중
-![Error Board](Error_MainLogo.png)
+<img src="Error_MainLogo.png" width="500" alt="Error Board">
 
 **기간:** 25.07.01 ~ 진행 중...  
 **설명:** 개발 과정에서 발생하는 에러 공유 및 해결 게시판
@@ -39,7 +39,7 @@
 ---
 
 ### 🐾 [UKA (유기동물센터)] - 완료
-![UKA Project](MainLogo.png)
+<img src="MainLogo.png" width="500" alt="UKA Project">
 
 **기간:** 25.06.09 ~ 25.07.04  
 **설명:** 지역별로 유기동물 정보를 제공하고, 입양절차를 도와주는 사이트
@@ -52,7 +52,7 @@
 ---
 
 ### 🎬 [OMR (OTT Movie Review)] - 완료
-![OMR Project](OMR_MainLogo.png)
+<img src="OMR_MainLogo.png" width="500" alt="OMR Project">
 
 **기간:** 25.07.21 ~ 25.08.05  
 **설명:** OTT 콘텐츠 및 영화 관련 정보를 제공하고, 리뷰를 작성 및 공유하는 어플리케이션
