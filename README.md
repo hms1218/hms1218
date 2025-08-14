@@ -1,14 +1,7 @@
 # 안녕하세요! 웹개발자 허민석입니다
 
-> [포트폴리오 보기](https://hms1218.github.io) 
-
----
-
-## 🧑‍💻 About Me
-- 🌱 현재 배우는 중: **[학습 중인 기술들]**
-- 🎯 관심 분야: **[관심있는 분야들]**
-- 💡 목표: **[개발 목표나 비전]**
-- 📫 Contact: **[your.email@example.com](mailto:your.email@example.com)**
+## About Me
+> [🔗Portfolio Website](https://hms1218.github.io) 
 
 ---
 
@@ -33,36 +26,46 @@
 
 ## 📁 주요 프로젝트
 
-### 🎬 [프로젝트 이름 1] - 진행중/완료
+### 🎬 [에러 공유 게시판] - 진행중
 ![Project Image](https://via.placeholder.com/800x300/4CAF50/FFFFFF?text=Project+Screenshot)
 
-**기간:** YYYY.MM ~ YYYY.MM  
-**설명:** [프로젝트에 대한 간단한 설명을 작성해주세요]
+**기간:** 25.07.01 ~ 진행 중...
+**설명:** [개발 과정에서 발생하는 에러 공유 및 해결 게시판]
 
-- 🛠️ **Tech Stack:** [사용한 기술들]
-- 👨‍💻 **My Role:** [본인의 역할]
-- 📅 **Status:** [진행상태]
-- 🖥️ **Code:** [GitHub Repository](https://github.com/username/project)
-- 🔗 **Link:** [Live Demo](https://your-project-link.com) (선택사항)
+- 🛠️ **Tech Stack:** [React, Java, SpringBoot, MySQL]
+- 👨‍💻 **My Role:** [개인 프로젝트]
+- 🖥️ **Code:** [GitHub Repository](https://github.com/hms1218/Project1)
+- 🔗 **Link:** [Live Demo](http://project-bucbucket.s3-website.ap-northeast-2.amazonaws.com/)
 
 ---
 
-### 🐾 [프로젝트 이름 2] - 완료
+### 🐾 [UKA (유기동물센터)] - 완료
 ![Project Image](https://via.placeholder.com/800x300/2196F3/FFFFFF?text=Project+Screenshot)
 
-**기간:** YYYY.MM ~ YYYY.MM  
-**설명:** [프로젝트에 대한 간단한 설명을 작성해주세요]
+**기간:** 25.06.09 ~ 25.07.04
+**설명:** [지역별로 유기동물 정보를 제공하고, 입양절차를 도와주는 사이트]
 
-- 🛠️ **Tech Stack:** [사용한 기술들]
-- 👨‍💻 **My Role:** [본인의 역할]
-- 📅 **Status:** [진행상태]
-- 🖥️ **Code:** [GitHub Repository](https://github.com/username/project)
+- 🛠️ **Tech Stack:** [React, Java, SpringBoot, MySQL]
+- 👨‍💻 **My Role:** [게시판 제작]
+- 🖥️ **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-UKA)
+- 🔗 **Link:** [Live Demo](http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/)
+
+---
+
+### 🐾 [OMR (OTT Movie Review)] - 완료
+![Project Image](https://via.placeholder.com/800x300/2196F3/FFFFFF?text=Project+Screenshot)
+
+**기간:** 25.07.21 ~ 25.08.05
+**설명:** [OTT 콘텐츠 및 영화 관련 정보를 제공하고, 리뷰를 작성 및 공유하는 어플리케이션]
+
+- 🛠️ **Tech Stack:** [React, React-Native, Java, SpringBoot, MySQL]
+- 👨‍💻 **My Role:** [메인화면]
+- 🖥️ **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-OMR)
+- 🔗 **Link:** [Live Demo]()
 
 ---
 
 <!-- 프로젝트를 더 추가하고 싶으시면 위 형식을 복사해서 사용하세요 -->
-
----
 
 ## 📊 GitHub Stats
 
