@@ -1,5 +1,3 @@
-# 안녕하세요! 웹개발자 허민석입니다
-
 ## About Me
 > [🔗Portfolio Website](https://hms1218.github.io) 
 
@@ -10,6 +8,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React-Native](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!-- 본인이 사용하는 기술 배지를 추가하세요 -->
 
 ### Backend
@@ -26,16 +25,16 @@
 
 ## 📁 주요 프로젝트
 
-### 🎬 [에러 공유 게시판] - 진행중
+### 🐛 [에러 공유 게시판] - 진행중
 ![Project Image](https://via.placeholder.com/800x300/4CAF50/FFFFFF?text=Project+Screenshot)
 
 **기간:** 25.07.01 ~ 진행 중...
 **설명:** [개발 과정에서 발생하는 에러 공유 및 해결 게시판]
 
-- 🛠️ **Tech Stack:** [React, Java, SpringBoot, MySQL]
-- 👨‍💻 **My Role:** [개인 프로젝트]
-- 🖥️ **Code:** [GitHub Repository](https://github.com/hms1218/Project1)
-- 🔗 **Link:** [Live Demo](http://project-bucbucket.s3-website.ap-northeast-2.amazonaws.com/)
+- **Tech Stack:** [React, Java, SpringBoot, MySQL]
+- **My Role:** [개인 프로젝트]
+- **Code:** [GitHub Repository](https://github.com/hms1218/Project1)
+- **Link:** [Live Demo](http://project-bucbucket.s3-website.ap-northeast-2.amazonaws.com/)
 
 ---
 
@@ -45,21 +44,21 @@
 **기간:** 25.06.09 ~ 25.07.04
 **설명:** [지역별로 유기동물 정보를 제공하고, 입양절차를 도와주는 사이트]
 
-- 🛠️ **Tech Stack:** [React, Java, SpringBoot, MySQL]
-- 👨‍💻 **My Role:** [게시판 제작]
-- 🖥️ **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-UKA)
-- 🔗 **Link:** [Live Demo](http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/)
+- **Tech Stack:** [React, Java, SpringBoot, MySQL]
+- **My Role:** [게시판 제작]
+- **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-UKA)
+- **Link:** [Live Demo](http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/)
 
 ---
 
-### 🐾 [OMR (OTT Movie Review)] - 완료
+### 🎬 [OMR (OTT Movie Review)] - 완료
 ![Project Image](https://via.placeholder.com/800x300/2196F3/FFFFFF?text=Project+Screenshot)
 
 **기간:** 25.07.21 ~ 25.08.05
 **설명:** [OTT 콘텐츠 및 영화 관련 정보를 제공하고, 리뷰를 작성 및 공유하는 어플리케이션]
 
 - 🛠️ **Tech Stack:** [React, React-Native, Java, SpringBoot, MySQL]
-- 👨‍💻 **My Role:** [메인화면]
+- 👨‍💻 **My Role:** [메인화면 제작]
 - 🖥️ **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-OMR)
 - 🔗 **Link:** [Live Demo]()
 
