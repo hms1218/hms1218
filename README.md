@@ -1,4 +1,6 @@
-## About Me
+# 안녕하세요! 풀스택 개발자 허민석입니다.
+
+## 👋 About Me
 > [🔗Portfolio Website](https://hms1218.github.io) 
 
 ---
@@ -39,13 +41,13 @@
 ---
 
 ### 🐾 [UKA (유기동물센터)] - 완료
-<img src="MainLogo.png" width="300" alt="UKA Project">
+<img src="MainLogo.jpg" width="300" alt="UKA Project">
 
 **기간:** 25.06.09 ~ 25.07.04  
 **설명:** 지역별로 유기동물 정보를 제공하고, 입양절차를 도와주는 사이트
 
 - **Tech Stack:** React, Java, SpringBoot, MySQL
-- **My Role:** 게시판 제작
+- **My Role:** 팀 프로젝트(게시판 제작)
 - **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-UKA)
 - **Link:** [Live Demo](http://teamproject-uka.s3-website.ap-northeast-2.amazonaws.com/)
 
@@ -57,10 +59,10 @@
 **기간:** 25.07.21 ~ 25.08.05  
 **설명:** OTT 콘텐츠 및 영화 관련 정보를 제공하고, 리뷰를 작성 및 공유하는 어플리케이션
 
-- 🛠️ **Tech Stack:** React, React-Native, Java, SpringBoot, MySQL
-- 👨‍💻 **My Role:** 메인화면 제작
-- 🖥️ **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-OMR)
-- 🔗 **Link:** Live Demo (준비중)
+- **Tech Stack:** React, React-Native, Java, SpringBoot, MySQL
+- **My Role:** 팀 프로젝트(메인화면 제작)
+- **Code:** [GitHub Repository](https://github.com/hms1218/TeamProject-OMR)
+- **Link:** Live Demo (준비중)
 
 ---
 
@@ -69,24 +71,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hms1218&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hms1218&layout=compact&langs_count=7&theme=react"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hms1218&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hms1218&layout=compact&langs_count=7&theme=react"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hms1218&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 ---
 
 ## 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hms1218)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hms1218.github.io)
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-  
-  **"코드로 세상을 더 나은 곳으로 만들어가는 개발자"** 💫
-  
-  ![Visitor Count](https://profile-counter.glitch.me/hms1218/count.svg)
-</div>
